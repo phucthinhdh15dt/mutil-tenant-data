@@ -1,0 +1,11 @@
+T:\Code Sample\multi tenat\New folder\New folder\DeviceManager.Api-master\src\DeviceManager.Api\bin\Debug\netcoreapp1.1\DeviceManager.Api.deps.json
+T:\Code Sample\multi tenat\New folder\New folder\DeviceManager.Api-master\src\DeviceManager.Api\bin\Debug\netcoreapp1.1\DeviceManager.Api.runtimeconfig.json
+T:\Code Sample\multi tenat\New folder\New folder\DeviceManager.Api-master\src\DeviceManager.Api\bin\Debug\netcoreapp1.1\DeviceManager.Api.runtimeconfig.dev.json
+T:\Code Sample\multi tenat\New folder\New folder\DeviceManager.Api-master\src\DeviceManager.Api\bin\Debug\netcoreapp1.1\DeviceManager.Api.dll
+T:\Code Sample\multi tenat\New folder\New folder\DeviceManager.Api-master\src\DeviceManager.Api\bin\Debug\netcoreapp1.1\DeviceManager.Api.pdb
+T:\Code Sample\multi tenat\New folder\New folder\DeviceManager.Api-master\src\DeviceManager.Api\obj\Debug\netcoreapp1.1\DeviceManager.Api.csprojAssemblyReference.cache
+T:\Code Sample\multi tenat\New folder\New folder\DeviceManager.Api-master\src\DeviceManager.Api\obj\Debug\netcoreapp1.1\DeviceManager.Api.csproj.CoreCompileInputs.cache
+T:\Code Sample\multi tenat\New folder\New folder\DeviceManager.Api-master\src\DeviceManager.Api\obj\Debug\netcoreapp1.1\DeviceManager.Api.AssemblyInfoInputs.cache
+T:\Code Sample\multi tenat\New folder\New folder\DeviceManager.Api-master\src\DeviceManager.Api\obj\Debug\netcoreapp1.1\DeviceManager.Api.AssemblyInfo.cs
+T:\Code Sample\multi tenat\New folder\New folder\DeviceManager.Api-master\src\DeviceManager.Api\obj\Debug\netcoreapp1.1\DeviceManager.Api.dll
+T:\Code Sample\multi tenat\New folder\New folder\DeviceManager.Api-master\src\DeviceManager.Api\obj\Debug\netcoreapp1.1\DeviceManager.Api.pdb
